@@ -14,7 +14,7 @@ Meu primeiro portifolio desenvolvido com os cursos de HTML e CSS da Alura
 
 ## Feito por:
 
-<br> Rodolpho Vessio
+<br> **Rodolpho Vessio**
 
 ### LinKedin: https://www.linkedin.com/in/rodolpho-dos-santos-vessio-1717b418b/
 
